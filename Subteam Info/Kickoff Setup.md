@@ -8,5 +8,5 @@
 ## Wpilib Installation files (Consistently up-to-date):
 - https://github.com/wpilibsuite/allwpilib/releases
 
-## FRC 2019 Update Suite (Up-to-date):
-- http://www.ni.com/download/first-robotics-software-2017/7904/en/
+## FRC 2020 Update Suite (Up-to-date):
+- https://www.ni.com/en-us/support/downloads/drivers/download/packaged.frc-game-tools.333285.html
