@@ -1,0 +1,10 @@
+How to set up WPIlib 2020 SDK 
+
+1.) Download WPIlib 2020 to the appropriate location
+
+2.) Clone the repository to the appropriate location
+
+3.) Import the repository through Gradle in IntelliJ, and then define the Project SDK 
+through Project Structure
+
+
